@@ -3,8 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-![](https://giphy.com/embed/mG1hSumZBRo6KGgfD1)
-![](https://github.com/AmmarMansab/Curved-Header_CSS-HTML/blob/main/Capture.PNG)
+<iframe src="https://giphy.com/embed/mG1hSumZBRo6KGgfD1" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mG1hSumZBRo6KGgfD1">via GIPHY</a></p>
 In the project directory, you can run:
 
 ### `npm start`
